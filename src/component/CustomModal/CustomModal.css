@@ -1,0 +1,27 @@
+/* CustomModal.css */
+.stat-bar {
+    margin-bottom: 10px;
+  }
+  
+  .bar {
+    height: 20px;
+    background-color: #4caf50; /* Green background color */
+    transition: width 1s; /* Animation duration */
+  }
+  
+  /* Style for the Close button */
+  button {
+    margin-top: 10px;
+  }
+  
+.parent{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.flex2{
+    background:#c8e6ffd6;
+    width: 50%;
+}
